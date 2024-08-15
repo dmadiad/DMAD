@@ -27,3 +27,4 @@ The main part of the code:
 - Step2. Edit the `config.py`, set the dataset name, dataset path, number of anomalies etc.
 - Step3. Training. `python3 run.py`.
 - Step4. Evaluating. Remember to edit the `config.py` before your evaluation, set the mode to test, then run `python3 run.py`.
+- Generated memory banks and checkpoint is provided [here](https://drive.google.com/drive/folders/1eDVMw2V1nSrngT6Si14GdqdQ98S9Dqqr?usp=drive_link)
